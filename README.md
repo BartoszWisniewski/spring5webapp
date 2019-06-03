@@ -1,5 +1,5 @@
 # spring5webapp
 
-My first spring app
+My first Spring app
 
-spring learning app
+Spring learning app
